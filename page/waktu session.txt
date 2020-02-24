@@ -1,0 +1,31 @@
+if(isset($_SESSION['namaLog'])){
+		
+		
+
+if ((time() - $_SESSION['last_login_time']) > 60) {  // detik
+	
+			
+
+echo "<script>alert('Anda telah keluar dari halaman administrator'); window.location.href='logout'</script>";
+
+
+			
+			
+		} else {
+	
+		
+			
+$_SESSION['last_login_timestamp'] = time();
+			
+		}
+			
+	
+
+} else {
+
+		
+
+echo "<script>alert('Anda telah keluar dari halaman administrator'); window.location.href='index'</script>";
+
+		
+	}
