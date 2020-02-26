@@ -8,3 +8,7 @@ Introduction
 ## Documentation
 
 !["AppTasklist Presentation"](https://github.com/MirzaQusyairi/apptasklist/blob/master/documentation/home.png "AppTasklist Presentation")
+!["AppTasklist Presentation"](https://github.com/MirzaQusyairi/apptasklist/blob/master/documentation/data.png "AppTasklist Presentation")
+!["AppTasklist Presentation"](https://github.com/MirzaQusyairi/apptasklist/blob/master/documentation/graph.png "AppTasklist Presentation")
+!["AppTasklist Presentation"](https://github.com/MirzaQusyairi/apptasklist/blob/master/documentation/graph1.png "AppTasklist Presentation")
+!["AppTasklist Presentation"](https://github.com/MirzaQusyairi/apptasklist/blob/master/documentation/history.png "AppTasklist Presentation")
